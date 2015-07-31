@@ -190,7 +190,7 @@ public class MainActivity extends Activity implements LeftDrawer.OnItemClickList
       	
       	// 淡出
       	oBallonFadeOut = ObjectAnimator.ofFloat(oBallon,"alpha",1f,endAlpha);
-      	oBallonFadeOut.setDuration(3000);
+      	oBallonFadeOut.setDuration(5000);
       	oBallonFadeOut.setStartDelay(2000);
 		
       	oBallonFadeOut.addListener(new AnimatorListenerAdapter(){
@@ -204,7 +204,7 @@ public class MainActivity extends Activity implements LeftDrawer.OnItemClickList
 		});
       	
       	iBallonFadeOut = ObjectAnimator.ofFloat(iBallon,"alpha",1f,endAlpha);
-      	iBallonFadeOut.setDuration(3000);
+      	iBallonFadeOut.setDuration(5000);
       	iBallonFadeOut.setStartDelay(2000);
 		
       	iBallonFadeOut.addListener(new AnimatorListenerAdapter(){
@@ -392,8 +392,9 @@ public class MainActivity extends Activity implements LeftDrawer.OnItemClickList
 				JSONObject mJson = new JSONObject(result);
 				String name = mJson.optString("name");
 				if (name.equals("temperature")){
-					int var = mJson.optInt("var");
-					showTip("服务器CPU温度为"+var/1000+"摄氏度");
+					double var = mJson.optDouble("var");
+					double var1 = (double)((int)(var/100))/10;
+					showTip("服务器CPU温度为"+var1+"摄氏度");
 				}
 				else if(name.equals("gpio")){
 					int id = mJson.optInt("id");
