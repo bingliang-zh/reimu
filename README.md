@@ -20,7 +20,7 @@ Live2d SDK受Live2D SDK License Agreement制约。
 除Live2D Inc.声明或暗喻的知识产权等相关权利归Live2D Inc.所有，或其他特别声明的以外，其余属于本人(thatblstudio)。
 
 本人对原SDK的所有修改（除特别指出外），以Apache许可的方式发布。./proj.reimu/assets/live2d/reimu下的所有文件（除Live2D公司声明的以外）以及本项目所使用的reimu形象（二设）著作权为本人所有，未经许可不得商用。
-./proj.reimu/assets/image/49309157_p0.jpg来源为カトルフィッシュ,http://www.pixiv.net/member.php?id=10755804，侵立删。
+./proj.reimu/assets/image/49309157_p0.jpg来源为カトルフィッシュ,[http://www.pixiv.net/member.php?id=10755804](http://www.pixiv.net/member.php?id=10755804)，侵立删。
 
 ## 文件夹描述
 * framework: Folder containing codes for Live2D framework used in samples
