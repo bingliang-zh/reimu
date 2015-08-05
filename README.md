@@ -23,9 +23,7 @@ Live2d SDK受Live2D SDK License Agreement制约。
 ./proj.reimu/assets/image/49309157_p0.jpg来源为カトルフィッシュ,[http://www.pixiv.net/member.php?id=10755804](http://www.pixiv.net/member.php?id=10755804)，侵立删。
 
 ## 文件夹描述
-* framework: Folder containing codes for Live2D framework used in samples
-* lib: Folder containing libraries
-* proj.reimu: Folder containing android project. Need android-support-v7-appcompact & androi-support-v7-recyclerview support.(Using Eclipse now, will upgrade to Android Studio in the near future)
+* client: Folder containing android client files. Use Android Studio. 
 * server: Folder containing server files.
 * LICENSE: Apache license.
 * Live2d_SDK_readme.txt: Live2d SDK intrinsic readme.

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\blProjects\Github\reimu\client\reimu\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\blProjects\Github\reimu\client\reimu\build\intermediates\pre-dexed\debug\classes-6ffb675d56acc9781531071291f4a7cb88f0e6e3.jar" />
+    </item>
+    <item
+        jar="C:\blProjects\Github\reimu\client\reimu\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\blProjects\Github\reimu\client\reimu\build\intermediates\pre-dexed\debug\classes-05a1c953a4813af4345998715c3616aa365b264c.jar" />
+    </item>
+    <item
+        jar="C:\soft\android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\blProjects\Github\reimu\client\reimu\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-8a5d6300f2a0abe5b9f5a9ef39edc4e98290ed92.jar" />
+    </item>
+    <item
+        jar="C:\blProjects\Github\reimu\client\reimu\libs\live2d_android.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b5bdd8e355865900806c6a6efc5a52fe32fd2e3">
+        <dex dex="C:\blProjects\Github\reimu\client\reimu\build\intermediates\pre-dexed\debug\live2d_android-a3e7fe9b524a764e20ccf9ad6d45180e34bf3661.jar" />
+    </item>
+    <item
+        jar="C:\blProjects\Github\reimu\client\reimu\libs\Msc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8ef016c8697ebba92ddf06c812e4415bdc30ed8">
+        <dex dex="C:\blProjects\Github\reimu\client\reimu\build\intermediates\pre-dexed\debug\Msc-8e98e3a9a24bf9da3a6107ef474cbfaa6026fdcb.jar" />
+    </item>
+    <item
+        jar="C:\blProjects\Github\reimu\client\reimu\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\blProjects\Github\reimu\client\reimu\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-81e0f6e659732e9a5ebc70a32a6f3a3df4c49af2.jar" />
+    </item>
+    <item
+        jar="C:\blProjects\Github\reimu\client\reimu\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\blProjects\Github\reimu\client\reimu\build\intermediates\pre-dexed\debug\classes-5a5973bfa82625e33b8ab868334d7893586a6afe.jar" />
+    </item>
+
+</items>
