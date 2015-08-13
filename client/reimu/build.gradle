@@ -19,7 +19,6 @@ android {
 }
 
 dependencies {
-//    compile project(':androidsupportv7recyclerview')
     compile 'com.android.support:appcompat-v7:22.2.1'
     compile 'com.android.support:recyclerview-v7:22.2.1'
     compile files('libs/Msc.jar')
